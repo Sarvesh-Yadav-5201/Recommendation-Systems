@@ -1,7 +1,7 @@
 ## <b> PROJECT  : Book Recommendation System using Collaborative Filtering
         
 ## <b> RESULTS : 
-![My Image](my-image.jpg)
+![My Image](image.jpg)
 
 ### <b> Description: 
 * This is a Jupyter notebook file containing Python code for a book recommendation system. 
