@@ -1,6 +1,6 @@
-## <b> PROJECT  : Book Recommendation System using Collaborative Filtering
+# <b> PROJECT  : Book Recommendation System using Collaborative Filtering
 
-### <b> Description: 
+# <b> Description: 
 * This is a Jupyter notebook file containing Python code for a book recommendation system. 
 * It first imports necessary libraries and reads in three datasets: BX-Books.csv, BX-Users.csv, and BX-Book-Ratings.csv.
 * The code creates a recommendation system based on rating count and another based on correlation using Pearson's R correlation coefficient. 
@@ -8,7 +8,7 @@
 
 ____________________________________________
         
-### Libraries Used: 
+# Libraries Used: 
         - sklearn
         - scipy
         - numpy
@@ -17,14 +17,22 @@ ____________________________________________
 
 
 _______________________________________
-## <b> RESULTS : 
+# <b> RESULTS : 
 ![My Image](image.jpg)
 
 
-## <b> DATASETS USED  : 
+# <b> 
+DATASETS USED  : 
 1. BX-Books.csv
-![My Image](SET 2.jpg)
+
+![My Image](SET1.jpg)
 ________________
 2. BX-Users.csv
-![My Image](SET 3.jpg)
+
+![My Image](SET2.jpg)
+________________________
+3. BX-Book-Ratings.csv
+
+![My Image](SET3.jpg)
+
 
