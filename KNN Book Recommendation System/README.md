@@ -18,21 +18,21 @@ ____________________________________________
 
 _______________________________________
 # <b> RESULTS : 
-![My Image](image.jpg)
+![MyImage](image.jpg)
 
 
 # <b> 
 DATASETS USED  : 
 1. BX-Books.csv
 
-![My Image](SET1.jpg)
+![MyImage](SET1.jpg)
 ________________
 2. BX-Users.csv
 
-![My Image](SET2.jpg)
+![MyImage](SET2.jpg)
 ________________________
 3. BX-Book-Ratings.csv
 
-![My Image](SET3.jpg)
+![MyImage](SET3.jpg)
 
 
